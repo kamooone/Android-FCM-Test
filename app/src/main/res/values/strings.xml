@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FCMTest</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="notification_channel_high_id">jp.or.FCMTest.high</string>
+    <string name="notification_channel_high_name">FCMテスト</string>
+    <string name="notification_channel_low_id">jp.or.FCMTest.low</string>
+    <string name="notification_channel_low_name">テスト</string>
+</resources>
